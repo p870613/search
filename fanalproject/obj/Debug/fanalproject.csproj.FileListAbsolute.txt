@@ -1,0 +1,10 @@
+C:\Users\p8706\source\repos\fanalproject\fanalproject\bin\Debug\fanalproject.exe.config
+C:\Users\p8706\source\repos\fanalproject\fanalproject\bin\Debug\fanalproject.exe
+C:\Users\p8706\source\repos\fanalproject\fanalproject\bin\Debug\fanalproject.pdb
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.csprojResolveAssemblyReference.cache
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.Properties.Resources.resources
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.csproj.GenerateResource.Cache
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.csproj.CoreCompileInputs.cache
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.exe
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.pdb
+C:\Users\p8706\source\repos\fanalproject\fanalproject\obj\Debug\fanalproject.Form1.resources
